@@ -1,0 +1,31 @@
+*{
+       font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body{
+    background-color: #720e54;
+}
+h1{
+    text-align: center;
+}
+ol{
+    padding: 20px 50px 20px 50px;
+    width: 300px;
+    color: #720e54;
+    background-color: hsl(319, 23%, 16%);
+    font-style: italic;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+ol li{
+    margin-bottom: 20px;
+    pad: 10px;
+    background-color: #200a1a;
+}
+.bg{
+    background-color: #86657a;
+    font-weight: bolder;
+  
+}
+span{
+    font-style: italic;
+    background-color: rgb(241, 76, 131);
+}
